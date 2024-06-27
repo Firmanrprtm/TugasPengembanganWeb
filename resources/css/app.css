@@ -1,0 +1,15 @@
+/* resources/sass/app.scss */
+
+#login-page {
+    background-color: #f8f9fa;
+    .card {
+        border: 1px solid #ddd;
+        .card-header {
+            background-color: #343a40;
+            color: #fff;
+        }
+        .form-control {
+            border-radius: 0;
+        }
+    }
+}
